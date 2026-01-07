@@ -1,4 +1,6 @@
 # Quantitative-Financial-Analysis-Project
+# Financial Sentiment Analysis with FinBERT
+
 import numpy as np
 import pandas as pd
 from pylab import mpl, plt
